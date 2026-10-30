@@ -18,7 +18,7 @@ Projects you'll find here:
 - 🧠 Recommendation systems
 - 🗣️ NLP and voice assistants
 
-If you want to find out more, you can find me on [LinkedIn](https://www.linkedin.com/in/vidhi-patel-9a7110256) or reach me at [viid8330@gmail.com](mailto:viid8330@gmail.com).
+If you want to find out more, you can find me on [LinkedIn](https://www.linkedin.com/in/vidhi-patel-9a7110256) or reach me at [vidhi9122@gmail.com](mailto:viid8330@gmail.com).
 
 ## Featured projects
 
